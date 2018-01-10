@@ -1,4 +1,4 @@
-# Multinomial-Na-ve-Bayes
+# Multinomial-Naive-Bayes
 Implementing the Naïve Bayes algorithm for text classification tasks
 
 This python program implements multinomial naïve Bayes algorithm for text classification tasks
