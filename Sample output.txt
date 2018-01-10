@@ -1,0 +1,35 @@
+C:\path>python NaiveBayesian.py "path\train" "path\test"
+
+C:\path\rec.autos
+=====================================
+Number of Test Documents :  396
+Number of Test Documents classified correctly :  385
+Accuracy :  97.22222222222221 %
+
+C:\path\rec.sport.hockey
+=====================================
+Number of Test Documents :  399
+Number of Test Documents classified correctly :  357
+Accuracy :  89.47368421052632 %
+
+C:\path\sci.med
+=====================================
+Number of Test Documents :  396
+Number of Test Documents classified correctly :  322
+Accuracy :  81.31313131313132 %
+
+C:\path\sci.space
+=====================================
+Number of Test Documents :  394
+Number of Test Documents classified correctly :  366
+Accuracy :  92.89340101522842 %
+
+C:\path\soc.religion.christian
+=====================================
+Number of Test Documents :  398
+Number of Test Documents classified correctly :  389
+Accuracy :  97.73869346733667 %
+
+Total Number of Test Documents :  1983
+Total Number of Test Documents classified correctly :  1819
+Accuracy :  91.72970247100352 %
